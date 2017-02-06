@@ -1,0 +1,28 @@
+{
+  "name": "stocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgjia/stocks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgjia/stocks/issues"
+  },
+  "homepage": "https://github.com/jorgjia/stocks#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "node-horseman": "^3.2.0",
+    "phantom": "^4.0.0",
+    "phantomjs": "^2.1.7",
+    "socket.io": "^1.7.2"
+  }
+}
